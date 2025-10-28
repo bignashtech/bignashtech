@@ -1,33 +1,106 @@
-<h1 align="center">Hi 👋, I'm Hamidu Nashiru</h1>
-<h3 align="center">A passionate frontend and aspiring software developer from Ghana</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Hamidu+Nashiru;Frontend+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bignashtech&label=Profile%20views&color=0e75b6&style=flat" alt="bignashtech" /> </p>
+<h3 align="center">🚀 Passionate Frontend Developer from Ghana 🇬🇭</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bignashtech" alt="bignashtech" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/bignash_1" target="blank"><img src="https://img.shields.io/twitter/follow/bignash_1?logo=twitter&style=for-the-badge" alt="bignash_1" /></a> </p>
+## 🛠️ Languages and Tools
 
-- 🌱 I’m currently learning **JavaScript and its frameworks**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,react,github,css,git,mysql,bootstrap" alt="Tech Stack" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://hamidunashiru.netlify.app/](https://hamidunashiru.netlify.app/)
+---
 
-- 📫 How to reach me **hamidunashiru5519@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bignash_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bignash_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamidu-nashiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamidu-nashiru" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100091966791594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100091966791594" height="30" width="40" /></a>
-<a href="https://instagram.com/bignashtv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bignashtv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/bignashtv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/bignashtv" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/hamidunashiru_04446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/hamidunashiru_04446" height="30" width="40" /></a>
+## 📊 Hamidu Nashiru's GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/bignashtech">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bignashtech&theme=github_dark" alt="GitHub Profile Summary" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bignashtech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bignashtech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bignashtech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const hamidu = {
+    location: "Ghana 🇬🇭",
+    currentFocus: "JavaScript & Modern Frameworks",
+    learning: ["React", "Advanced JavaScript", "Backend Development"],
+    interests: ["Web Development", "Mobile App Development"],
+    funFact: "I turn ideas into code"
+};
+```
+
+- 🔭 I'm currently building projects with **JavaScript**
+- 🌱 Learning and growing in **JavaScript frameworks and libraries**
+- 💼 Check out my portfolio: [hamidunashiru.netlify.app](https://hamidunashiru.netlify.app/)
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap**
+- 📫 Reach me at: **hamidunashiru5519@gmail.com**
+- ⚡ Fun fact: **I love creating beautiful and responsive web interfaces**
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Master React and its ecosystem
+- 🔧 Build more real-world projects
+- 🌐 Contribute to open source projects
+- 📚 Learn backend development with Node.js
+- 💼 Land my first software engineering role
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://hamidunashiru.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hamidunashiru5519@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamidu-nashiru" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/bignash_1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100091966791594" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://discord.com/channels/hamidunashiru_04446" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bignashtech&show_icons=true&locale=en&layout=compact" alt="bignashtech" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bignashtech&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bignashtech&show_icons=true&locale=en" alt="bignashtech" /></p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bignashtech&" alt="bignashtech" /></p>
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/bignashtech">bignashtech</a> - Let's build something amazing together!</i>
+</div>
